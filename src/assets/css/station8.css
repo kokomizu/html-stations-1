@@ -1,0 +1,32 @@
+.card{
+    background: #fff;
+
+}
+.card-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card__title{
+    color: #282828;
+    font-size: 14px;
+}
+.card__description{
+    color: #282828;
+    font-size: 12px;
+}
+.card__img-top{
+    margin-bottom: 10px;
+    width: 288px;
+    height: 182px;
+}
+.page-header{
+    background-color: #ffffff;
+    color: red;
+}
+body{
+    background-color: #C4C4C4;
+}
+.page-footer{
+    background-color: #ffffff;
+}
